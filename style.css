@@ -1,0 +1,46 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.box {
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+}
+
+.box1 {
+    background-color: #007bff;
+}
+
+.box2 {
+    background-color: #6c757d;
+}
+
+.box3 {
+    background-color: #28a745;
+}
+
+.box4 {
+    background-color: #dc3545;
+}
+
+.box5 {
+    background-color: #ffc107;
+}
+
+.box6 {
+    background-color: #007bff;
+}
+
+.box7 {
+    background-color: #6c757d;
+}
+
